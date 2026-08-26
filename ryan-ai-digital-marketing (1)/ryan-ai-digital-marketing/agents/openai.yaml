@@ -1,0 +1,14 @@
+interface:
+  display_name: ryan ai digital marketing
+  short_description: All-in-one marketing assistant for Ryan AI Digital covering strategy,
+    SEO, GEO, local SEO, websites, social media, advertising plans, email, outreach,
+    proposals, reports, branding, and client workflows.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
